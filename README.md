@@ -18,11 +18,11 @@
 
 ## 01.城市分布
 
-![roadmap](PIC18/Rplot01_roadmap.png)
+![roadmap](Rplot01_roadmap.png)
 
 ## 02.行业分布
 
-![industries](PIC18/Rplot02_industries.png)
+![industries](Rplot02_industries.png)
 
 ## 03.公司规模
 
@@ -30,12 +30,12 @@
 
 ## 04.公司类型
 
-![com_type](PIC18/Rplot04_com_type.png)
+![com_type](Rplot04_com_type.png)
 
 ## 05.工作经验
 
-![experience](PIC18/Rplot05_experience.png)
+![experience](Rplot05_experience.png)
 
 ## 6.学历要求
 
-![education](PIC18/Rplot06_education.png)
+![education](Rplot06_education.png)
